@@ -12,11 +12,12 @@ body{
     height: 350px;
     width: 200px;
     border-radius: 10px;
+    
 }
 
-#qr
+#qr img
 {
-    border-radius: 20px;
+    border-radius: 10px;
     justify-content: center;
     
 }
